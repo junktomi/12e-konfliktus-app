@@ -1,8 +1,13 @@
 html, body {
 <<<<<<< HEAD
+<<<<<<< HEAD
   background-color: green;
 =======
   background-color: red;
 >>>>>>> fd5b6c36ea8cb5bb308e488b0749fe7ca1455966
   color: white;
+=======
+  background-color: blue;
+  color: aqua;
+>>>>>>> 571fc7385af3d80a2643448a26bf7b87aab83505
 }
