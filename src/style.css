@@ -1,4 +1,8 @@
 html, body {
+<<<<<<< HEAD
   background-color: green;
+=======
+  background-color: red;
+>>>>>>> fd5b6c36ea8cb5bb308e488b0749fe7ca1455966
   color: white;
 }
